@@ -1,24 +1,27 @@
 **<h1>Random Password Generator</h1>**
 **<h2>Overview</h2>**
-In the digital age, the strength of your passwords is the first line of defense against cyber threats. Our Random Password Generator is a simple yet powerful tool designed to help you create strong, unique passwords instantly. With customizable options for length and character types, securing your online presence has never been easier or more reliable.
+<p>In the digital age, the strength of your passwords is the first line of defense against cyber threats. Our Random Password Generator is a simple yet powerful tool designed to help you create strong, unique passwords instantly. With customizable options for length and character types, securing your online presence has never been easier or more reliable.</p>
 
 **<h2>Features</h2>**
-Customizable Password Length: Choose any length between 8 and 128 characters to fit the security requirements of various platforms.
+<p>Customizable Password Length: Choose any length between 8 and 128 characters to fit the security requirements of various platforms.
 Diverse Character Types: Opt to include lowercase letters, uppercase letters, numbers, and special characters to create complex passwords that are tough to crack.
 User-Friendly Interface: Generate passwords with just a few clicks in a straightforward, intuitive interface.
-Secure and Private: Passwords are generated client-side, ensuring that your secure passwords never leave your device.
+Secure and Private: Passwords are generated client-side, ensuring that your secure passwords never leave your device.</p>
 
 **<h2>Getting Started</h2>**
-To use the Random Password Generator, simply follow these steps:
+<p>To use the Random Password Generator, simply follow these steps:</p>
 
-**1. Open the Tool**: Load the HTML file in your preferred web browser.
+<ul>
+  <li>**1. Open the Tool**: Load the HTML file in your preferred web browser.</li>
+</ul>
+
 **2. Generate Password:** Click on the "Generate Password" button to start the process.
 **3. Customize Options:** Follow the prompts to choose your password length and character types.
 **4. Receive Password:** Your newly generated password will be displayed. You can then copy and use it for your accounts.
 
 **<h2>Requirements<h2>**
-Any modern web browser (Chrome, Firefox, Safari, Edge)
-JavaScript must be enabled in the browser
+<p>Any modern web browser (Chrome, Firefox, Safari, Edge)<br>
+JavaScript must be enabled in the browser</p>
 
 **<h2>Usage</h2>**
 This tool is perfect for:
