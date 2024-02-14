@@ -20,8 +20,7 @@
   <li><b>Receive Password:</b> Your newly generated password will be displayed. You can then copy and use it for your accounts.</li>
 </ol>
 
-
-**<h2>Requirements<h2>**
+**<h2>Requirements</h2>**
 <p>Any modern web browser (Chrome, Firefox, Safari, Edge) and JavaScript must be enabled in the browser</p>
 
 **<h2>Usage</h2>**
