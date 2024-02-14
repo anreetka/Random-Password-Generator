@@ -3,10 +3,12 @@
 <p>In the digital age, the strength of your passwords is the first line of defense against cyber threats. Our Random Password Generator is a simple yet powerful tool designed to help you create strong, unique passwords instantly. With customizable options for length and character types, securing your online presence has never been easier or more reliable.</p>
 
 **<h2>Features</h2>**
-<p><b>Customizable Password Length:</b> Choose any length between 8 and 128 characters to fit the security requirements of various platforms.<br>
-<b>Diverse Character Types:</b> Opt to include lowercase letters, uppercase letters, numbers, and special characters to create complex passwords that are tough to crack.<br>
-<b>User-Friendly Interface:</b> Generate passwords with just a few clicks in a straightforward, intuitive interface.<br>
-<b>Secure and Private:</b> Passwords are generated client-side, ensuring that your secure passwords never leave your device.</p>
+<ul>
+  <li><b>Customizable Password Length:</b> Choose any length between 8 and 128 characters to fit the security requirements of various platforms.</li>
+  <li><b>Diverse Character Types:</b> Opt to include lowercase letters, uppercase letters, numbers, and special characters to create complex passwords that are tough to crack.</li>
+  <li><b>User-Friendly Interface:</b> Generate passwords with just a few clicks in a straightforward, intuitive interface.</li>
+  <li><b>Secure and Private:</b> Passwords are generated client-side, ensuring that your secure passwords never leave your device.</li>
+</ul>
 
 **<h2>Getting Started</h2>**
 <p>To use the Random Password Generator, simply follow these steps:</p>
