@@ -1,4 +1,4 @@
-**#Random Password Generator**
+**<h1>Random Password Generator</h1>**
 **#Overview**
 In the digital age, the strength of your passwords is the first line of defense against cyber threats. Our Random Password Generator is a simple yet powerful tool designed to help you create strong, unique passwords instantly. With customizable options for length and character types, securing your online presence has never been easier or more reliable.
 
