@@ -14,11 +14,10 @@
 <p>To use the Random Password Generator, simply follow these steps:</p>
 
 <ol>
-  <li>**Open the Tool**: Load the HTML file in your preferred web browser.</li>
-  <li>**Generate Password:** Click on the "Generate Password" button to start the process.</li>
-  <li>**Customize Options:** Follow the prompts to choose your password length and character types.</li>
-  <li>**4. Receive Password:** Your newly generated password will be displayed. You can then copy and use it for your accounts.
-</li>
+  <li><b>Open the Tool:</b> Load the HTML file in your preferred web browser.</li>
+  <li><b>Generate Password:</b> Click on the "Generate Password" button to start the process.</li>
+  <li><b>Customize Options:</b> Follow the prompts to choose your password length and character types.</li>
+  <li><b>Receive Password:</b> Your newly generated password will be displayed. You can then copy and use it for your accounts.</li>
 </ol>
 
 
